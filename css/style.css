@@ -467,7 +467,7 @@ a:focus {
   fill: #ffffff;
 }
 
-.about_section .row {
+/* .about_section .row {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -502,3 +502,4 @@ a:focus {
 .about_section .img-box img {
   width: 100%;
 }
+ */
